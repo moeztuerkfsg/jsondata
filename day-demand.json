@@ -5,7 +5,7 @@
         "maxCapacity": 40,
         "dayStatus": {"id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0", "status": {"id": "e9e2e59f-3e2f-4617-9380-7e5e19380cc0", "label": "Feiertag", "color": "ffa500"}},
         "status": {"id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0", "label": "gebucht", "color": "85e12c"},
-        "statusNote": "",
+        "statusNote": "STATUS NOTE AUS JSON",
         "writeLock": false,
         "writeLockOwner": "Sven Boge",
         "factory": {"id": "68075c9f-dc67-40a7-944e-e067568f92bb", "name": "Osnabrück", "abbreviation": "OS",  "externalId": "1241"},

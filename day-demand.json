@@ -52,14 +52,12 @@
                     {"demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953", "transportUnitType": { "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894", "name": "Waggon" } , "amount": 10, "editable": true}
                 ]
             },
-,
             {
                 "material": { "id": "372215b8-5145-4b82-9579-951e0ec1da2d", "name": "Verpackung", "type": { "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3", "name": "Wrapping" } },
                 "typeDemands": [
                     {"demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d", "transportUnitType": { "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c", "name": "Container" } , "amount": 1, "editable": false}
                 ]
-            }
-,
+            },
             {
                 "material": { "id": "372215b8-5145-4b82-9579-951e0ec1da2d", "name": "Halbfertigware", "type": { "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3", "name": "Wrapping" } },
                 "typeDemands": [

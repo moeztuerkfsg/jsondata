@@ -70,7 +70,6 @@
         "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
         "date": "02.03.2023",
         "maxCapacity": 35,
-        "dayStatus": {"id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0", "status": {"id": "e9e2e59f-3e2f-4617-9380-7e5e19380cc0", "label": "Feiertag", "color": "ffa500"}},
         "status": {"id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0", "label": "geplant", "color": "85e12c"},
         "statusNote": "STATUS 2",
         "writeLock": false,

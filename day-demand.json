@@ -1,0 +1,28 @@
+[
+    {
+        "id": "dba9b46c-ceca-4b79-8ecf-1bfac8dc06de",
+        "date": "",
+        "maxCapacity": 40,
+        "dayStatus": {"id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0", "status": {"id": "e9e2e59f-3e2f-4617-9380-7e5e19380cc0", "label": "Feiertag", "color": "ffa500"}},
+        "status": {"id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0", "label": "gebucht", "color": "85e12c"},
+        "statusNote": "",
+        "writeLock": false,
+        "writeLockOwner": "Sven Boge",
+        "factory": {"id": "68075c9f-dc67-40a7-944e-e067568f92bb", "name": "Osnabrück", "abbreviation": "OS",  "externalId": "1241"},
+        "demands": [
+            {
+                "material": { "id": "602e92d1-8b88-457e-b8df-8fee05738dd2", "name": "SorteA", "type": { "id": "cd70fd19-369c-4222-8b06-731bd82f394b", "name": "Pulp" } },
+                "typeDemands": [
+                    {"demandId": "78f42e91-1887-4680-bebb-24b743dd3848", "transportUnitType": { "id": "4fe08c91-e2e5-4af0-af83-976040cafd65", "name": "Container" } , "amount": 5, "editable": true},
+                    {"demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953", "transportUnitType": { "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894", "name": "Waggon" } , "amount": 10, "editable": true}
+                ]
+            },
+            {
+                "material": { "id": "372215b8-5145-4b82-9579-951e0ec1da2d", "name": "SorteB", "type": { "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3", "name": "Wrapping" } },
+                "typeDemands": [
+                    {"demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d", "transportUnitType": { "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c", "name": "Container" } , "amount": 1, "editable": false}
+                ]
+            }
+        ]
+    }
+]

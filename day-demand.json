@@ -28,7 +28,7 @@
     },
      {
         "id": "bda6b46c-ceca-4b79-8ecf-1bfac8dc06de",
-        "date": "01.03.2023",
+        "date": "02.03.2023",
         "maxCapacity": 40,
         "dayStatus": {"id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0", "status": {"id": "e9e2e59f-3e2f-4617-9380-7e5e19380cc0", "label": "Feiertag", "color": "ffa500"}},
         "status": {"id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0", "label": "gebucht", "color": "85e12c"},

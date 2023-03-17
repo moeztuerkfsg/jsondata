@@ -2,7 +2,7 @@
     {
         "id": "7d58468d-01bb-45e2-900a-c539684bcdbf",
         "date": "01.3.2023",
-        "maxCapacity": 25,
+        "maxCapacity": 20,
         "dayStatus": {
             "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
             "status": {

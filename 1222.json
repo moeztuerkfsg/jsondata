@@ -23,7 +23,7 @@
             "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
             "name": "Osnabrück",
             "abbreviation": "OS",
-            "externalId": "1241"
+            "externalId": "1222"
         },
         "demands": [
            
@@ -53,36 +53,6 @@
                             "name": "Waggon"
                         },
                         "amount": 6,
-                        "editable": true
-                    }
-                ]
-            },
-            {
-                "material": {
-                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
-                    "name": "CACIA ECF FSC",
-                    "type": {
-                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
-                        "name": "Pulp"
-                    }
-                },
-                "typeDemands": [
-                    {
-                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
-                        "transportUnitType": {
-                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
-                            "name": "Container"
-                        },
-                        "amount": 3,
-                        "editable": true
-                    },
-                    {
-                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
-                        "transportUnitType": {
-                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
-                            "name": "Waggon"
-                        },
-                        "amount": 1,
                         "editable": true
                     }
                 ]
@@ -155,39 +125,9 @@
             "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
             "name": "Osnabrück",
             "abbreviation": "OS",
-            "externalId": "1241"
+            "externalId": "1222"
         },
         "demands": [
-            {
-                "material": {
-                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
-                    "name": "UMP Euca FSC",
-                    "type": {
-                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
-                        "name": "Pulp"
-                    }
-                },
-                "typeDemands": [
-                    {
-                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
-                        "transportUnitType": {
-                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
-                            "name": "Container"
-                        },
-                        "amount": 2,
-                        "editable": true
-                    },
-                    {
-                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
-                        "transportUnitType": {
-                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
-                            "name": "Waggon"
-                        },
-                        "amount": 3,
-                        "editable": true
-                    }
-                ]
-            },
             {
                 "material": {
                     "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
@@ -270,7 +210,7 @@
             "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
             "status": {
                 "id": "e9e2e59f-3e2f-4617-9380-7e5e19380cc0",
-                "label": "Feiertag",
+                "label": "",
                 "color": "ffa500"
             }
         },
@@ -286,7 +226,7 @@
             "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
             "name": "Osnabrück",
             "abbreviation": "OS",
-            "externalId": "1241"
+            "externalId": "1222"
         },
         "demands": [
             {
@@ -401,7 +341,7 @@
             "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
             "status": {
                 "id": "e9e2e59f-3e2f-4617-9380-7e5e19380cc0",
-                "label": "",
+                "label": "Feiertag",
                 "color": "ffa500"
             }
         },
@@ -417,7 +357,7 @@
             "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
             "name": "Osnabrück",
             "abbreviation": "OS",
-            "externalId": "1241"
+            "externalId": "1222"
         },
         "demands": [
             {
@@ -548,7 +488,7 @@
             "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
             "name": "Osnabrück",
             "abbreviation": "OS",
-            "externalId": "1241"
+            "externalId": "1222"
         },
         "demands": [
             {
@@ -679,7 +619,7 @@
             "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
             "name": "Osnabrück",
             "abbreviation": "OS",
-            "externalId": "1241"
+            "externalId": "1222"
         },
         "demands": [
             {
@@ -810,7 +750,7 @@
             "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
             "name": "Osnabrück",
             "abbreviation": "OS",
-            "externalId": "1241"
+            "externalId": "1222"
         },
         "demands": [
             {
@@ -941,7 +881,7 @@
             "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
             "name": "Osnabrück",
             "abbreviation": "OS",
-            "externalId": "1241"
+            "externalId": "1222"
         },
         "demands": [
             {
@@ -1072,7 +1012,7 @@
             "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
             "name": "Osnabrück",
             "abbreviation": "OS",
-            "externalId": "1241"
+            "externalId": "1222"
         },
         "demands": [
             {
@@ -1203,7 +1143,7 @@
             "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
             "name": "Osnabrück",
             "abbreviation": "OS",
-            "externalId": "1241"
+            "externalId": "1222"
         },
         "demands": [
             {
@@ -1334,7 +1274,7 @@
             "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
             "name": "Osnabrück",
             "abbreviation": "OS",
-            "externalId": "1241"
+            "externalId": "1222"
         },
         "demands": [
             {
@@ -1465,7 +1405,7 @@
             "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
             "name": "Osnabrück",
             "abbreviation": "OS",
-            "externalId": "1241"
+            "externalId": "1222"
         },
         "demands": [
             {
@@ -1596,7 +1536,7 @@
             "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
             "name": "Osnabrück",
             "abbreviation": "OS",
-            "externalId": "1241"
+            "externalId": "1222"
         },
         "demands": [
             {
@@ -1727,7 +1667,7 @@
             "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
             "name": "Osnabrück",
             "abbreviation": "OS",
-            "externalId": "1241"
+            "externalId": "1222"
         },
         "demands": [
             {
@@ -1858,7 +1798,7 @@
             "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
             "name": "Osnabrück",
             "abbreviation": "OS",
-            "externalId": "1241"
+            "externalId": "1222"
         },
         "demands": [
             {
@@ -1989,7 +1929,7 @@
             "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
             "name": "Osnabrück",
             "abbreviation": "OS",
-            "externalId": "1241"
+            "externalId": "1222"
         },
         "demands": [
             {
@@ -2120,7 +2060,7 @@
             "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
             "name": "Osnabrück",
             "abbreviation": "OS",
-            "externalId": "1241"
+            "externalId": "1222"
         },
         "demands": [
             {
@@ -2251,7 +2191,7 @@
             "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
             "name": "Osnabrück",
             "abbreviation": "OS",
-            "externalId": "1241"
+            "externalId": "1222"
         },
         "demands": [
             {
@@ -2382,7 +2322,7 @@
             "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
             "name": "Osnabrück",
             "abbreviation": "OS",
-            "externalId": "1241"
+            "externalId": "1222"
         },
         "demands": [
             {
@@ -2513,7 +2453,7 @@
             "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
             "name": "Osnabrück",
             "abbreviation": "OS",
-            "externalId": "1241"
+            "externalId": "1222"
         },
         "demands": [
             {
@@ -2644,7 +2584,7 @@
             "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
             "name": "Osnabrück",
             "abbreviation": "OS",
-            "externalId": "1241"
+            "externalId": "1222"
         },
         "demands": [
             {
@@ -2775,7 +2715,7 @@
             "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
             "name": "Osnabrück",
             "abbreviation": "OS",
-            "externalId": "1241"
+            "externalId": "1222"
         },
         "demands": [
             {
@@ -2906,7 +2846,7 @@
             "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
             "name": "Osnabrück",
             "abbreviation": "OS",
-            "externalId": "1241"
+            "externalId": "1222"
         },
         "demands": [
             {
@@ -3037,7 +2977,7 @@
             "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
             "name": "Osnabrück",
             "abbreviation": "OS",
-            "externalId": "1241"
+            "externalId": "1222"
         },
         "demands": [
             {
@@ -3168,7 +3108,7 @@
             "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
             "name": "Osnabrück",
             "abbreviation": "OS",
-            "externalId": "1241"
+            "externalId": "1222"
         },
         "demands": [
             {
@@ -3299,7 +3239,7 @@
             "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
             "name": "Osnabrück",
             "abbreviation": "OS",
-            "externalId": "1241"
+            "externalId": "1222"
         },
         "demands": [
             {
@@ -3430,7 +3370,7 @@
             "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
             "name": "Osnabrück",
             "abbreviation": "OS",
-            "externalId": "1241"
+            "externalId": "1222"
         },
         "demands": [
             {
@@ -3561,7 +3501,7 @@
             "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
             "name": "Osnabrück",
             "abbreviation": "OS",
-            "externalId": "1241"
+            "externalId": "1222"
         },
         "demands": [
             {
@@ -3692,7 +3632,7 @@
             "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
             "name": "Osnabrück",
             "abbreviation": "OS",
-            "externalId": "1241"
+            "externalId": "1222"
         },
         "demands": [
             {
@@ -3823,7 +3763,7 @@
             "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
             "name": "Osnabrück",
             "abbreviation": "OS",
-            "externalId": "1241"
+            "externalId": "1222"
         },
         "demands": [
             {
@@ -3954,7 +3894,7 @@
             "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
             "name": "Osnabrück",
             "abbreviation": "OS",
-            "externalId": "1241"
+            "externalId": "1222"
         },
         "demands": [
             {

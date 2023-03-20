@@ -26,36 +26,7 @@
             "externalId": "1241"
         },
         "demands": [
-             {
-                "material": {
-                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
-                    "name": "Sorte XY",
-                    "type": {
-                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
-                        "name": "Pulp"
-                    }
-                },
-                "typeDemands": [
-                    {
-                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
-                        "transportUnitType": {
-                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
-                            "name": "Container"
-                        },
-                        "amount": 17,
-                        "editable": true
-                    },
-                    {
-                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
-                        "transportUnitType": {
-                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
-                            "name": "Waggon"
-                        },
-                        "amount": 5,
-                        "editable": true
-                    }
-                ]
-            },
+           
             {
                 "material": {
                     "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",

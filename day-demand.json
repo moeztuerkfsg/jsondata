@@ -43,7 +43,7 @@
                             "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
                             "name": "Container"
                         },
-                        "amount": 2,
+                        "amount": 11,
                         "editable": true
                     },
                     {
@@ -52,7 +52,7 @@
                             "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
                             "name": "Waggon"
                         },
-                        "amount": 3,
+                        "amount": 6,
                         "editable": true
                     }
                 ]
@@ -73,7 +73,7 @@
                             "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
                             "name": "Container"
                         },
-                        "amount": 7,
+                        "amount": 3,
                         "editable": true
                     },
                     {
@@ -82,7 +82,7 @@
                             "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
                             "name": "Waggon"
                         },
-                        "amount": 0,
+                        "amount": 1,
                         "editable": true
                     }
                 ]
@@ -124,7 +124,7 @@
                             "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
                             "name": "Container"
                         },
-                        "amount": 1,
+                        "amount": 10,
                         "editable": false
                     }
                 ]

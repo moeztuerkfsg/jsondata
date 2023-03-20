@@ -16,7 +16,7 @@
             "label": "geplant",
             "color": "85e12c"
         },
-        "statusNote": "STATUS NOTE AUS JSON",
+        "statusNote": "",
         "writeLock": false,
         "writeLockOwner": "Sven Boge",
         "factory": {
@@ -279,7 +279,7 @@
             "label": "geplant",
             "color": "85e12c"
         },
-        "statusNote": "STATUS NOTE AUS JSON",
+        "statusNote": "",
         "writeLock": false,
         "writeLockOwner": "Sven Boge",
         "factory": {

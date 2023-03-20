@@ -4060,5 +4060,3937 @@
                 ]
             }
         ]
+    },
+    
+    {
+        "id": "7d58468d-01bb-45e2-900a-c539684bcdbf",
+        "date": "01.04.2023",
+        "maxCapacity": 20,
+        "dayStatus": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "status": {
+                "id": "e9e2e59f-3e2f-4617-9380-7e5e19380cc0",
+                "label": "",
+                "color": "ffa500"
+            }
+        },
+        "status": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "label": "geplant",
+            "color": "85e12c"
+        },
+        "statusNote": "Meine Notiz",
+        "writeLock": false,
+        "writeLockOwner": "Sven Boge",
+        "factory": {
+            "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
+            "name": "Osnabrück",
+            "abbreviation": "OS",
+            "externalId": "1241"
+        },
+        "demands": [
+           
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "UMP Euca FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 11,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 6,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "CACIA ECF FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 3,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 1,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Verpackung",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Halbfertigware",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 10,
+                        "editable": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2e58468d-01bb-45e2-900a-c539684bcdbf",
+        "date": "02.04.2023",
+        "maxCapacity": 9,
+        "dayStatus": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "status": {
+                "id": "e9e2e59f-3e2f-4617-9380-7e5e19380cc0",
+                "label": "",
+                "color": "ffa500"
+            }
+        },
+        "status": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "label": "gebucht",
+            "color": "85e12c"
+        },
+        "statusNote": "Meine Notiz",
+        "writeLock": false,
+        "writeLockOwner": "Sven Boge",
+        "factory": {
+            "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
+            "name": "Osnabrück",
+            "abbreviation": "OS",
+            "externalId": "1241"
+        },
+        "demands": [
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "UMP Euca FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 2,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 3,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "CACIA ECF FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 7,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 0,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Verpackung",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Halbfertigware",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "f50532f5-8151-4764-b0cd-4505290b2b7b",
+        "date": "03.04.2023",
+        "maxCapacity": 40,
+        "dayStatus": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "status": {
+                "id": "e9e2e59f-3e2f-4617-9380-7e5e19380cc0",
+                "label": "",
+                "color": "ffa500"
+            }
+        },
+        "status": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "label": "geplant",
+            "color": "85e12c"
+        },
+        "statusNote": "Meine Notiz",
+        "writeLock": false,
+        "writeLockOwner": "Sven Boge",
+        "factory": {
+            "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
+            "name": "Osnabrück",
+            "abbreviation": "OS",
+            "externalId": "1241"
+        },
+        "demands": [
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "UMP Euca FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 2,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 3,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "CACIA ECF FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 7,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 0,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Verpackung",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Halbfertigware",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3c9f588f-2dda-4ccf-aae0-6060c4fb8b69",
+        "date": "04.04.2023",
+        "maxCapacity": 40,
+        "dayStatus": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "status": {
+                "id": "e9e2e59f-3e2f-4617-9380-7e5e19380cc0",
+                "label": "",
+                "color": "ffa500"
+            }
+        },
+        "status": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "label": "gebucht",
+            "color": "85e12c"
+        },
+        "statusNote": "Meine Notiz",
+        "writeLock": false,
+        "writeLockOwner": "Sven Boge",
+        "factory": {
+            "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
+            "name": "Osnabrück",
+            "abbreviation": "OS",
+            "externalId": "1241"
+        },
+        "demands": [
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "UMP Euca FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 2,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 3,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "CACIA ECF FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 7,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 0,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Verpackung",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Halbfertigware",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5cc1c115-63d0-48de-94ff-4a829ecb8864",
+        "date": "05.04.2023",
+        "maxCapacity": 40,
+        "dayStatus": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "status": {
+                "id": "e9e2e59f-3e2f-4617-9380-7e5e19380cc0",
+                "label": "",
+                "color": "ffa500"
+            }
+        },
+        "status": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "label": "geplant",
+            "color": "85e12c"
+        },
+        "statusNote": "Meine Notiz",
+        "writeLock": false,
+        "writeLockOwner": "Sven Boge",
+        "factory": {
+            "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
+            "name": "Osnabrück",
+            "abbreviation": "OS",
+            "externalId": "1241"
+        },
+        "demands": [
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "UMP Euca FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 2,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 3,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "CACIA ECF FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 7,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 0,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Verpackung",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Halbfertigware",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "33792c8b-c7c6-4ed8-9f8a-ae7b5dd1871b",
+        "date": "06.04.2023",
+        "maxCapacity": 40,
+        "dayStatus": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "status": {
+                "id": "e9e2e59f-3e2f-4617-9380-7e5e19380cc0",
+                "label": "",
+                "color": "ffa500"
+            }
+        },
+        "status": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "label": "gebucht",
+            "color": "85e12c"
+        },
+        "statusNote": "Meine Notiz",
+        "writeLock": false,
+        "writeLockOwner": "Sven Boge",
+        "factory": {
+            "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
+            "name": "Osnabrück",
+            "abbreviation": "OS",
+            "externalId": "1241"
+        },
+        "demands": [
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "UMP Euca FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 2,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 3,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "CACIA ECF FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 7,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 0,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Verpackung",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Halbfertigware",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "d4963a0b-6658-469e-8d26-6024a7fd1a96",
+        "date": "07.04.2023",
+        "maxCapacity": 40,
+        "dayStatus": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "status": {
+                "id": "e9e2e59f-3e2f-4617-9380-7e5e19380cc0",
+                "label": "Feiertag",
+                "color": "ffa500"
+            }
+        },
+        "status": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "label": "gebucht",
+            "color": "85e12c"
+        },
+        "statusNote": "Meine Notiz",
+        "writeLock": false,
+        "writeLockOwner": "Sven Boge",
+        "factory": {
+            "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
+            "name": "Osnabrück",
+            "abbreviation": "OS",
+            "externalId": "1241"
+        },
+        "demands": [
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "UMP Euca FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 2,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 3,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "CACIA ECF FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 7,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 0,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Verpackung",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Halbfertigware",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "273a0b3a-a59a-48e8-9756-4e76070f311c",
+        "date": "08.04.2023",
+        "maxCapacity": 40,
+        "dayStatus": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "status": {
+                "id": "e9e2e59f-3e2f-4617-9380-7e5e19380cc0",
+                "label": "",
+                "color": "ffa500"
+            }
+        },
+        "status": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "label": "gebucht",
+            "color": "85e12c"
+        },
+        "statusNote": "Meine Notiz",
+        "writeLock": false,
+        "writeLockOwner": "Sven Boge",
+        "factory": {
+            "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
+            "name": "Osnabrück",
+            "abbreviation": "OS",
+            "externalId": "1241"
+        },
+        "demands": [
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "UMP Euca FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 2,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 3,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "CACIA ECF FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 7,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 0,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Verpackung",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Halbfertigware",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "4b45204b-5db1-439e-9b43-0876193ea565",
+        "date": "09.04.2023",
+        "maxCapacity": 40,
+        "dayStatus": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "status": {
+                "id": "e9e2e59f-3e2f-4617-9380-7e5e19380cc0",
+                "label": "Feiertag",
+                "color": "ffa500"
+            }
+        },
+        "status": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "label": "gebucht",
+            "color": "85e12c"
+        },
+        "statusNote": "Meine Notiz",
+        "writeLock": false,
+        "writeLockOwner": "Sven Boge",
+        "factory": {
+            "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
+            "name": "Osnabrück",
+            "abbreviation": "OS",
+            "externalId": "1241"
+        },
+        "demands": [
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "UMP Euca FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 2,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 3,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "CACIA ECF FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 7,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 0,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Verpackung",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Halbfertigware",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "67b61079-0cb4-4b9c-8058-cd1f0cfc065f",
+        "date": "10.04.2023",
+        "maxCapacity": 40,
+        "dayStatus": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "status": {
+                "id": "e9e2e59f-3e2f-4617-9380-7e5e19380cc0",
+                "label": "Feiertag",
+                "color": "ffa500"
+            }
+        },
+        "status": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "label": "gebucht",
+            "color": "85e12c"
+        },
+        "statusNote": "Meine Notiz",
+        "writeLock": false,
+        "writeLockOwner": "Sven Boge",
+        "factory": {
+            "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
+            "name": "Osnabrück",
+            "abbreviation": "OS",
+            "externalId": "1241"
+        },
+        "demands": [
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "UMP Euca FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 2,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 3,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "CACIA ECF FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 7,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 0,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Verpackung",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Halbfertigware",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7fa3ebfc-c11c-4d22-a8d7-c9a469d3fbbc",
+        "date": "11.04.2023",
+        "maxCapacity": 40,
+        "dayStatus": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "status": {
+                "id": "e9e2e59f-3e2f-4617-9380-7e5e19380cc0",
+                "label": "",
+                "color": "ffa500"
+            }
+        },
+        "status": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "label": "gebucht",
+            "color": "85e12c"
+        },
+        "statusNote": "Meine Notiz",
+        "writeLock": false,
+        "writeLockOwner": "Sven Boge",
+        "factory": {
+            "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
+            "name": "Osnabrück",
+            "abbreviation": "OS",
+            "externalId": "1241"
+        },
+        "demands": [
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "UMP Euca FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 2,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 3,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "CACIA ECF FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 7,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 0,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Verpackung",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Halbfertigware",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "512b7402-05ce-48eb-93b5-213a554cf79d",
+        "date": "12.04.2023",
+        "maxCapacity": 40,
+        "dayStatus": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "status": {
+                "id": "e9e2e59f-3e2f-4617-9380-7e5e19380cc0",
+                "label": "",
+                "color": "ffa500"
+            }
+        },
+        "status": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "label": "gebucht",
+            "color": "85e12c"
+        },
+        "statusNote": "Meine Notiz",
+        "writeLock": false,
+        "writeLockOwner": "Sven Boge",
+        "factory": {
+            "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
+            "name": "Osnabrück",
+            "abbreviation": "OS",
+            "externalId": "1241"
+        },
+        "demands": [
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "UMP Euca FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 2,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 3,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "CACIA ECF FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 7,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 0,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Verpackung",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Halbfertigware",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "09dac839-6c34-489e-becc-e6d80cac7852",
+        "date": "13.04.2023",
+        "maxCapacity": 40,
+        "dayStatus": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "status": {
+                "id": "e9e2e59f-3e2f-4617-9380-7e5e19380cc0",
+                "label": "",
+                "color": "ffa500"
+            }
+        },
+        "status": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "label": "gebucht",
+            "color": "85e12c"
+        },
+        "statusNote": "Meine Notiz",
+        "writeLock": false,
+        "writeLockOwner": "Sven Boge",
+        "factory": {
+            "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
+            "name": "Osnabrück",
+            "abbreviation": "OS",
+            "externalId": "1241"
+        },
+        "demands": [
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "UMP Euca FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 2,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 3,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "CACIA ECF FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 7,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 0,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Verpackung",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Halbfertigware",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "90bf8b67-a485-4552-a488-d88bec55c661",
+        "date": "14.04.2023",
+        "maxCapacity": 40,
+        "dayStatus": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "status": {
+                "id": "e9e2e59f-3e2f-4617-9380-7e5e19380cc0",
+                "label": "",
+                "color": "ffa500"
+            }
+        },
+        "status": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "label": "gebucht",
+            "color": "85e12c"
+        },
+        "statusNote": "Meine Notiz",
+        "writeLock": false,
+        "writeLockOwner": "Sven Boge",
+        "factory": {
+            "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
+            "name": "Osnabrück",
+            "abbreviation": "OS",
+            "externalId": "1241"
+        },
+        "demands": [
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "UMP Euca FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 2,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 3,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "CACIA ECF FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 7,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 0,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Verpackung",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Halbfertigware",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "67ac5cf1-6792-4927-945d-89f08d4c5b61",
+        "date": "15.04.2023",
+        "maxCapacity": 40,
+        "dayStatus": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "status": {
+                "id": "e9e2e59f-3e2f-4617-9380-7e5e19380cc0",
+                "label": "",
+                "color": "ffa500"
+            }
+        },
+        "status": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "label": "gebucht",
+            "color": "85e12c"
+        },
+        "statusNote": "Meine Notiz",
+        "writeLock": false,
+        "writeLockOwner": "Sven Boge",
+        "factory": {
+            "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
+            "name": "Osnabrück",
+            "abbreviation": "OS",
+            "externalId": "1241"
+        },
+        "demands": [
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "UMP Euca FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 2,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 3,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "CACIA ECF FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 7,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 0,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Verpackung",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Halbfertigware",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "774d3882-caf9-4d49-aa6c-d48349047aef",
+        "date": "16.04.2023",
+        "maxCapacity": 40,
+        "dayStatus": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "status": {
+                "id": "e9e2e59f-3e2f-4617-9380-7e5e19380cc0",
+                "label": "",
+                "color": "ffa500"
+            }
+        },
+        "status": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "label": "gebucht",
+            "color": "85e12c"
+        },
+        "statusNote": "Meine Notiz",
+        "writeLock": false,
+        "writeLockOwner": "Sven Boge",
+        "factory": {
+            "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
+            "name": "Osnabrück",
+            "abbreviation": "OS",
+            "externalId": "1241"
+        },
+        "demands": [
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "UMP Euca FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 2,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 3,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "CACIA ECF FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 7,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 0,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Verpackung",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Halbfertigware",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ce773c6c-0685-4d1f-acdb-119656dfac0c",
+        "date": "17.04.2023",
+        "maxCapacity": 40,
+        "dayStatus": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "status": {
+                "id": "e9e2e59f-3e2f-4617-9380-7e5e19380cc0",
+                "label": "",
+                "color": "ffa500"
+            }
+        },
+        "status": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "label": "gebucht",
+            "color": "85e12c"
+        },
+        "statusNote": "Meine Notiz",
+        "writeLock": false,
+        "writeLockOwner": "Sven Boge",
+        "factory": {
+            "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
+            "name": "Osnabrück",
+            "abbreviation": "OS",
+            "externalId": "1241"
+        },
+        "demands": [
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "UMP Euca FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 2,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 3,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "CACIA ECF FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 7,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 0,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Verpackung",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Halbfertigware",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7a9401d3-caa3-4411-afec-f6ddd21adb7f",
+        "date": "18.04.2023",
+        "maxCapacity": 40,
+        "dayStatus": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "status": {
+                "id": "e9e2e59f-3e2f-4617-9380-7e5e19380cc0",
+                "label": "",
+                "color": "ffa500"
+            }
+        },
+        "status": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "label": "gebucht",
+            "color": "85e12c"
+        },
+        "statusNote": "Meine Notiz",
+        "writeLock": false,
+        "writeLockOwner": "Sven Boge",
+        "factory": {
+            "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
+            "name": "Osnabrück",
+            "abbreviation": "OS",
+            "externalId": "1241"
+        },
+        "demands": [
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "UMP Euca FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 2,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 3,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "CACIA ECF FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 7,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 0,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Verpackung",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Halbfertigware",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a0e37096-ef6d-4d64-8b05-bceadf82d0b3",
+        "date": "19.04.2023",
+        "maxCapacity": 40,
+        "dayStatus": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "status": {
+                "id": "e9e2e59f-3e2f-4617-9380-7e5e19380cc0",
+                "label": "",
+                "color": "ffa500"
+            }
+        },
+        "status": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "label": "gebucht",
+            "color": "85e12c"
+        },
+        "statusNote": "Meine Notiz",
+        "writeLock": false,
+        "writeLockOwner": "Sven Boge",
+        "factory": {
+            "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
+            "name": "Osnabrück",
+            "abbreviation": "OS",
+            "externalId": "1241"
+        },
+        "demands": [
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "UMP Euca FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 2,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 3,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "CACIA ECF FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 7,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 0,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Verpackung",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Halbfertigware",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2464d820-0928-4acc-9c6b-35a1724a2d61",
+        "date": "20.04.2023",
+        "maxCapacity": 40,
+        "dayStatus": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "status": {
+                "id": "e9e2e59f-3e2f-4617-9380-7e5e19380cc0",
+                "label": "",
+                "color": "ffa500"
+            }
+        },
+        "status": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "label": "gebucht",
+            "color": "85e12c"
+        },
+        "statusNote": "Meine Notiz",
+        "writeLock": false,
+        "writeLockOwner": "Sven Boge",
+        "factory": {
+            "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
+            "name": "Osnabrück",
+            "abbreviation": "OS",
+            "externalId": "1241"
+        },
+        "demands": [
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "UMP Euca FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 2,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 3,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "CACIA ECF FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 7,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 0,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Verpackung",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Halbfertigware",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0e9ba4fc-c6f8-4475-ab64-f554ac9d7ed3",
+        "date": "21.04.2023",
+        "maxCapacity": 40,
+        "dayStatus": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "status": {
+                "id": "e9e2e59f-3e2f-4617-9380-7e5e19380cc0",
+                "label": "",
+                "color": "ffa500"
+            }
+        },
+        "status": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "label": "gebucht",
+            "color": "85e12c"
+        },
+        "statusNote": "Meine Notiz",
+        "writeLock": false,
+        "writeLockOwner": "Sven Boge",
+        "factory": {
+            "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
+            "name": "Osnabrück",
+            "abbreviation": "OS",
+            "externalId": "1241"
+        },
+        "demands": [
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "UMP Euca FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 2,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 3,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "CACIA ECF FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 7,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 0,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Verpackung",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Halbfertigware",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5d53c4fe-8864-4e04-85a4-aa55904b469a",
+        "date": "22.04.2023",
+        "maxCapacity": 40,
+        "dayStatus": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "status": {
+                "id": "e9e2e59f-3e2f-4617-9380-7e5e19380cc0",
+                "label": "",
+                "color": "ffa500"
+            }
+        },
+        "status": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "label": "gebucht",
+            "color": "85e12c"
+        },
+        "statusNote": "Meine Notiz",
+        "writeLock": false,
+        "writeLockOwner": "Sven Boge",
+        "factory": {
+            "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
+            "name": "Osnabrück",
+            "abbreviation": "OS",
+            "externalId": "1241"
+        },
+        "demands": [
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "UMP Euca FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 2,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 3,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "CACIA ECF FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 7,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 0,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Verpackung",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Halbfertigware",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a6df6a89-9a92-4774-92a7-9ecffc9cff85",
+        "date": "23.04.2023",
+        "maxCapacity": 40,
+        "dayStatus": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "status": {
+                "id": "e9e2e59f-3e2f-4617-9380-7e5e19380cc0",
+                "label": "",
+                "color": "ffa500"
+            }
+        },
+        "status": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "label": "gebucht",
+            "color": "85e12c"
+        },
+        "statusNote": "Meine Notiz",
+        "writeLock": false,
+        "writeLockOwner": "Sven Boge",
+        "factory": {
+            "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
+            "name": "Osnabrück",
+            "abbreviation": "OS",
+            "externalId": "1241"
+        },
+        "demands": [
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "UMP Euca FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 2,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 3,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "CACIA ECF FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 7,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 0,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Verpackung",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Halbfertigware",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "feb3fa3c-91c3-48f1-a7cf-0a728df5b36e",
+        "date": "24.04.2023",
+        "maxCapacity": 40,
+        "dayStatus": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "status": {
+                "id": "e9e2e59f-3e2f-4617-9380-7e5e19380cc0",
+                "label": "",
+                "color": "ffa500"
+            }
+        },
+        "status": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "label": "gebucht",
+            "color": "85e12c"
+        },
+        "statusNote": "Meine Notiz",
+        "writeLock": false,
+        "writeLockOwner": "Sven Boge",
+        "factory": {
+            "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
+            "name": "Osnabrück",
+            "abbreviation": "OS",
+            "externalId": "1241"
+        },
+        "demands": [
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "UMP Euca FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 2,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 3,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "CACIA ECF FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 7,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 0,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Verpackung",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Halbfertigware",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "353b0e68-5395-4240-9ee8-c431070db202",
+        "date": "25.04.2023",
+        "maxCapacity": 40,
+        "dayStatus": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "status": {
+                "id": "e9e2e59f-3e2f-4617-9380-7e5e19380cc0",
+                "label": "",
+                "color": "ffa500"
+            }
+        },
+        "status": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "label": "gebucht",
+            "color": "85e12c"
+        },
+        "statusNote": "Meine Notiz",
+        "writeLock": false,
+        "writeLockOwner": "Sven Boge",
+        "factory": {
+            "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
+            "name": "Osnabrück",
+            "abbreviation": "OS",
+            "externalId": "1241"
+        },
+        "demands": [
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "UMP Euca FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 2,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 3,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "CACIA ECF FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 7,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 0,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Verpackung",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Halbfertigware",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7fdb9aec-9d1c-40f4-aea5-b2d7758f3dc7",
+        "date": "26.04.2023",
+        "maxCapacity": 40,
+        "dayStatus": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "status": {
+                "id": "e9e2e59f-3e2f-4617-9380-7e5e19380cc0",
+                "label": "",
+                "color": "ffa500"
+            }
+        },
+        "status": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "label": "gebucht",
+            "color": "85e12c"
+        },
+        "statusNote": "Meine Notiz",
+        "writeLock": false,
+        "writeLockOwner": "Sven Boge",
+        "factory": {
+            "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
+            "name": "Osnabrück",
+            "abbreviation": "OS",
+            "externalId": "1241"
+        },
+        "demands": [
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "UMP Euca FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 2,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 3,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "CACIA ECF FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 7,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 0,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Verpackung",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Halbfertigware",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "cc98afcf-a6cc-41b1-9224-cfb5774cfca9",
+        "date": "27.04.2023",
+        "maxCapacity": 40,
+        "dayStatus": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "status": {
+                "id": "e9e2e59f-3e2f-4617-9380-7e5e19380cc0",
+                "label": "",
+                "color": "ffa500"
+            }
+        },
+        "status": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "label": "gebucht",
+            "color": "85e12c"
+        },
+        "statusNote": "Meine Notiz",
+        "writeLock": false,
+        "writeLockOwner": "Sven Boge",
+        "factory": {
+            "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
+            "name": "Osnabrück",
+            "abbreviation": "OS",
+            "externalId": "1241"
+        },
+        "demands": [
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "UMP Euca FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 2,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 3,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "CACIA ECF FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 7,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 0,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Verpackung",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Halbfertigware",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "efaa34b4-dc11-4d49-8094-8d77d4edd088",
+        "date": "28.04.2023",
+        "maxCapacity": 40,
+        "dayStatus": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "status": {
+                "id": "e9e2e59f-3e2f-4617-9380-7e5e19380cc0",
+                "label": "",
+                "color": "ffa500"
+            }
+        },
+        "status": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "label": "gebucht",
+            "color": "85e12c"
+        },
+        "statusNote": "Meine Notiz",
+        "writeLock": false,
+        "writeLockOwner": "Sven Boge",
+        "factory": {
+            "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
+            "name": "Osnabrück",
+            "abbreviation": "OS",
+            "externalId": "1241"
+        },
+        "demands": [
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "UMP Euca FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 2,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 3,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "CACIA ECF FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 7,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 0,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Verpackung",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Halbfertigware",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "da63a7b5-6d0a-4150-89a7-ed5a437702ed",
+        "date": "29.04.2023",
+        "maxCapacity": 40,
+        "dayStatus": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "status": {
+                "id": "e9e2e59f-3e2f-4617-9380-7e5e19380cc0",
+                "label": "",
+                "color": "ffa500"
+            }
+        },
+        "status": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "label": "gebucht",
+            "color": "85e12c"
+        },
+        "statusNote": "Meine Notiz",
+        "writeLock": false,
+        "writeLockOwner": "Sven Boge",
+        "factory": {
+            "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
+            "name": "Osnabrück",
+            "abbreviation": "OS",
+            "externalId": "1241"
+        },
+        "demands": [
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "UMP Euca FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 2,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 3,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "CACIA ECF FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 7,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 0,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Verpackung",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Halbfertigware",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "847d8de5-bdd8-4b3c-bf54-f9e33b9d76be",
+        "date": "30.04.2023",
+        "maxCapacity": 40,
+        "dayStatus": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "status": {
+                "id": "e9e2e59f-3e2f-4617-9380-7e5e19380cc0",
+                "label": "",
+                "color": "ffa500"
+            }
+        },
+        "status": {
+            "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
+            "label": "geplant",
+            "color": "85e12c"
+        },
+        "statusNote": "Meine Notiz",
+        "writeLock": false,
+        "writeLockOwner": "Sven Boge",
+        "factory": {
+            "id": "68075c9f-dc67-40a7-944e-e067568f92bb",
+            "name": "Osnabrück",
+            "abbreviation": "OS",
+            "externalId": "1241"
+        },
+        "demands": [
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "UMP Euca FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 2,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 3,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "602e92d1-8b88-457e-b8df-8fee05738dd2",
+                    "name": "CACIA ECF FSC",
+                    "type": {
+                        "id": "cd70fd19-369c-4222-8b06-731bd82f394b",
+                        "name": "Pulp"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "78f42e91-1887-4680-bebb-24b743dd3848",
+                        "transportUnitType": {
+                            "id": "4fe08c91-e2e5-4af0-af83-976040cafd65",
+                            "name": "Container"
+                        },
+                        "amount": 7,
+                        "editable": true
+                    },
+                    {
+                        "demandId": "68c4e4ce-59ea-4cba-b385-5166b9268953",
+                        "transportUnitType": {
+                            "id": "3af1a3d4-296d-48a6-8a0a-bc8f69bcf894",
+                            "name": "Waggon"
+                        },
+                        "amount": 0,
+                        "editable": true
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Verpackung",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            },
+            {
+                "material": {
+                    "id": "372215b8-5145-4b82-9579-951e0ec1da2d",
+                    "name": "Halbfertigware",
+                    "type": {
+                        "id": "f1f42a2d-b714-4993-a0ef-34e71705c8b3",
+                        "name": "Wrapping"
+                    }
+                },
+                "typeDemands": [
+                    {
+                        "demandId": "5e9a85bb-d464-43a7-8279-bd5abc1f647d",
+                        "transportUnitType": {
+                            "id": "faf990fe-0df8-4222-8446-3adae0bb9e5c",
+                            "name": "Container"
+                        },
+                        "amount": 1,
+                        "editable": false
+                    }
+                ]
+            }
+        ]
     }
 ]

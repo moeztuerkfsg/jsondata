@@ -2503,7 +2503,7 @@
         },
         "status": {
             "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
-            "label": "gebucht",
+            "label": "geplant",
             "color": "85e12c"
         },
         "statusNote": "Hier steht eine Notiz...",
@@ -2634,7 +2634,7 @@
         },
         "status": {
             "id": "e9e2e58f-3e2f-4617-9380-7e5e19380cc0",
-            "label": "gebucht",
+            "label": "status",
             "color": "85e12c"
         },
         "statusNote": "Hier steht eine Notiz...",
